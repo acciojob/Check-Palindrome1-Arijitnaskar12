@@ -9,7 +9,8 @@ str=str.toLowerCase();
 			{
 				return false;
 			}
-			i++;j--;
+			i++;
+			j--;
 		}
 	return true;
 }
